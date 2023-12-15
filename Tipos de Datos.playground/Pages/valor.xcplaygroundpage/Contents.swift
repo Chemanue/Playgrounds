@@ -20,3 +20,5 @@ hd.width = 720
 
 var cinema = hd
 cinema.width = 2048
+
+print ("hd: \(hd)")
