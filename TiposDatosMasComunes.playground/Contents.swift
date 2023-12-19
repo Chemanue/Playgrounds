@@ -65,3 +65,11 @@ for key in dict2.keys {
     print(dict2[key])
 }
 
+for (index, element) in dict2.enumerated(){
+    print(index)
+    print(element.key)
+    print(element.value)
+}
+
+
+
